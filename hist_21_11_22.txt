@@ -1,0 +1,200 @@
+  119  ls -lrt
+  120  chmod g+x, o+w first_dir/text_file.txt
+  121  chmod g+x, o+w text_file.txt
+  122   ../
+  123  history
+  124  echo $HISTFILE
+  125  CD ../
+  126  cd ../
+  127  cd../
+  128  history
+  129  history -1000 > histprueba.txt
+  130  wc -l histprueba.txt
+  131  cd /home
+  132  cd dsc/Desktop/Pruebas
+  133  mkdir first_dir
+  134  cd first_dir
+  135  touch texr_file
+  136  mv texr_file lext_file
+  137  mv lext_file text_file
+  138  mkdir sub1 sub2 sub3
+  139  cp text_file sub1
+  140  cp sub1 mkdir sub4
+  141  cp sub1 > mkdir sub4
+  142  mkdir sub4 cp sub1
+  143  mkdir sub4 > cp sub1 sub4
+  144  mkdir sub4
+  145  cp sub1 sub4
+  146  cp sub1 -r sub4
+  147  cd sub1
+  148  mv text_file.txt /home/dsc/Desktop/Pruebas/first_dir_sub2
+  149  mv text_file /home/dsc/Desktop/Pruebas/first_dir_sub1
+  150  ../
+  151  cd ../
+  152  cp text_file sub1
+  153  cd sub1
+  154  mv text_file /home/dsc/Desktop/Pruebas/first_dir/sub2
+  155  cd ../
+  156  rm sub2
+  157  rm -r sub2
+  158  mkdir .sub5
+  159  rm -r .sub5
+  160  git config --global user.name "Franknarf610"
+  161  git config --global user.email "franklin.paya.quiles@gmail.com"
+  162  cat cd ~
+  163  ~
+  164  ../
+  165  cd ../
+  166  cd git
+  167  git clone https://github.com/Franknarf610/repo_shell.git
+  168  ls ll
+  169  ls
+  170  ls -a
+  171  cd repo_shell
+  172  ls -a
+  173  cat README.md
+  174  cat .git/config
+  175  touch .gitignore
+  176  ls -a
+  177  git status
+  178  git add .gitignore
+  179  git commit -m "my first commit"
+  180  git status
+  181  git push -u origin main
+  182  echo "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" > .token
+  183  echo ".token" >> .gitignore
+  184  cat .gitignore
+  185  git add .gitignore
+  186  git commit -m "adding .token as hidden in gitignore"
+  187  git push -u origin main
+  188  git status
+  189  cat .token
+  190  git add histprueba.txt
+  191  git commit -m "Comentario"
+  192  git push -u origin main
+  193  gedit .zshrc
+  194  echo $PATH
+  195  wich python
+  196  whereis python
+  197  locates python
+  198  locate python
+  199  cd ./histprueba.yxt
+  200  cd ./histprueba.txt
+  201  cd Desktop/git
+  202  cd Desktop/pruebas
+  203  ~
+  204  echo eee
+  205  \n
+  206  echo "hola caracola caraa de cola"|wc -l
+  207  echo "date"
+  208  pwd
+  209  ../
+  210  cd ../
+  211  cd pruebas
+  212  cd Pruebas
+  213  cd ../
+  214  cd Pruebas
+  215  psw
+  216  pwd
+  217  cd home
+  218  cd dsc
+  219  cd desktop
+  220  cd Desktop
+  221  ls
+  222  ls -lrt
+  223  cd home
+  224  cd Home
+  225  ~
+  226  cd ~
+  227  pwd
+  228  ls -lrt
+  229  cd
+  230  pwd
+  231  cd ~
+  232  pwd
+  233  cd home/dsc
+  234  cd Home/ds
+  235  cd Home/dsc
+  236  pwd
+  237  ls -lrt
+  238  cd ..
+  239  ..
+  240  cd ..
+  241  cd home/dsc
+  242  cd Documents
+  243  cd ..
+  244  pwd
+  245  cd home/dsc
+  246  cd Documents
+  247  ls -lrt
+  248  cd home/dsc
+  249  ls -lrt
+  250  pwd
+  251  -
+  252  cd home/dsc
+  253  cd /home/dsc
+  254  ls -lrt
+  255  cd /home/dsc/Desktop/Pruebas
+  256  cd first_dir
+  257  cd -
+  258  cd /home/dsc
+  259  cd -
+  260  pwd
+  261  cd -
+  262  pwd
+  263  cd ..
+  264  cd /home/dsc
+  265  ll
+  266  ls -lrt
+  267  cd
+  268  pwd
+  269  cd DEsktop
+  270  cd Desktop
+  271  ls -lrt
+  272  cd ./Hola
+  273  cd /
+  274  ls -lrt
+  275  cd
+  276  pwd
+  277  cat prueba_carpeta
+  278  cat .gitconfig
+  279  clear
+  280  pwd
+  281  Desktop/Pruebas
+  282  cd Desktop/Pruebas
+  283  echo "Hola caracola" > nocontentfrank
+  284  cat nocontentfrank
+  285  man cd
+  286  man cat
+  287  pwd
+  288  cat -n nocontentfrank
+  289  cat -n nocontentfrank nocontentfrank nocontentfran
+  290  cat -n nocontentfrank nocontentfrank nocontentfrank
+  291  cat -n nocontentfrank.txt
+  292  cat -n nocontentfrank.txt nocontentfrank.txt nocontentfrank.txt
+  293  echo "Me gusta la cocacola" > nocontentfrank.txt
+  294  cat nocontentfrank.txt
+  295  echo "Hola caracola" > nocontentfrank.txt
+  296  cat nocontentfrank.txt
+  297  echo "Me gusta la cocacola" >> nocontentfrank.txt
+  298  cat nocontentfrank.txt
+  299  man history
+  300  history
+  301  $ history
+  302  $history
+  303  echo $HISTFILE
+  304  history -290
+  305  history
+  306  history -10
+  307  history
+  308  ./repo_shell
+  309  /home/dsc/Desktop/git/repo_shell
+  310  cd /home/dsc/Desktop/git/repo_shell
+  311  pwd
+  312  history
+  313  wd -l
+  314  wc -l
+  315  history
+  316  history -200
+  317  pwd
+  318  cd Desktop/git/repo_shell
